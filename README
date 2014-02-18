@@ -1,0 +1,17 @@
+Requires GLM, glfw 3, glload and glimg to compile.
+
+Unless stated in credits.txt all the objects and textures in the resources
+folder were created for this project.
+
+----Controls----
+Press T for tour
+Press E to exit tour
+Press Space to pause or resume motion
+Press H to display the help text in the console
+Press Q or Esc to exit
+Press Left to rotate camera to the left
+Press Right to rotate camera to the right
+Press Up to speed up forward motion
+Press Down to slow down forward motion
+Press Page Up to increase the camera elevation
+Press Page Down to reduce the camera elevation
